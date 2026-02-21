@@ -1,8 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/eds-training/:/",
+    "/content/eds-universal:/.helix/config.json",
+    "/content/eds-universal/metadata:/metadata.json  "
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/eds-universal/"
   ]
 }
